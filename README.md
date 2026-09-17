@@ -1,6 +1,7 @@
 # Hi, I'm Heitor 👋
 
-Game developer working with **Godot** and **Roblox Studio**, focused on game system architecture and native extensions.
+A computer science student and game developer from Brazil working with **Godot** and **Roblox Studio** to create games, systems and native extensions for Godot.
+Feel free to see my projects and give advice on anything that could be improved!
 
 ## 🛠️ Stack
 
@@ -19,15 +20,8 @@ Game developer working with **Godot** and **Roblox Studio**, focused on game sys
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeitorCF2101&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorCF2101E&layout=compact&theme=radical)
-
-## 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=HeitorCF2101&theme=radical&row=1&column=6)
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/heitorcafr)
+
+email: heitorcafr@gmail.com
