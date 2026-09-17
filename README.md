@@ -1,3 +1,13 @@
-Hello, I'm HeitorCF, a new guy in the programming field that wants to learn more and more about it.
-I'm a Brazzilian, interested in the game developping field, an enjoyer of C/C++ and a student of computing engeneering.
-Thanks for reading my profile, have a good day :D
+Hello, I'm Heitor Freitas!
+I'm a Brazzilian 🇧🇷​ computer science student 👨‍💻​
+My interest are:
+ - C/C++ ⚙️​
+ - Lua 🌕​
+ - Game Development 🎮​
+ - Godot and the GDextension 🤖​
+ - GameMaker 🕹️​
+ - Git/GitHub 🗃️​
+
+I'm currently working hard to learn game development and programming, any tips and feedback about my projects will be accepted!
+
+Thanks for reading my profile, have a good day!
